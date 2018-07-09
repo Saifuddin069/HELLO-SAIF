@@ -2,4 +2,4 @@
 <a href="https://wwwsaifbhai.com">
 This is a link
 </a>
-<img src="img_madina.jpg">
+<img src="madina.jpg"/>
