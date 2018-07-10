@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
  <b2>Welcome to The World of WebPage Creations</b2>
